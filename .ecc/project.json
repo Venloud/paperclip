@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "repository": "Venloud/paperclip",
+  "skills": [
+    "codebase-onboarding",
+    "team-agent-orchestration",
+    "agent-security-hardening"
+  ],
+  "restrictions": "Use the existing company-scoped control plane. ECC guidance must not start another scheduler or alter company permissions.",
+  "upstream": "v2.2.3",
+  "memory": "Vandam canonical; no automatic observation or separate memory store"
+}
